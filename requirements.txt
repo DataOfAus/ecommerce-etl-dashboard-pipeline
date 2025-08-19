@@ -1,0 +1,12 @@
+# pandas: Data manipulation and analysis library, essential for handling tabular data
+pandas==2.3.0
+
+# python-dotenv: Loads environment variables from .env file for secure config management
+python-dotenv==1.1.1
+
+# requests: HTTP library to extract data from APIs
+requests==2.32.4
+
+# SQLAlchemy: Python SQL toolkit and ORM for database interaction (PostgreSQL)
+SQLAlchemy==2.0.41
+

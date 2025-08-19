@@ -1,0 +1,19 @@
+# Ignore .env file with secrets
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Data files and logs
+data/
+*.log
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
